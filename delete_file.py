@@ -5,7 +5,7 @@ from botocore.exceptions import ClientError
 client = boto3.client('s3')
 
 # declare bucket name
-bucket_name = "nikan-s3-test"
+bucket_name = ""
 
 def delete_file_from_s3(Bucket=bucket_name, object_name= None):
     '''
