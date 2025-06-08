@@ -2,7 +2,7 @@ import boto3
 import json
 
 client = boto3.client('s3')
-bucket_name = "nikan-s3-test"
+bucket_name = ""
 
 def set_bucket_policy():
     '''
