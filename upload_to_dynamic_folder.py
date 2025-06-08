@@ -1,7 +1,7 @@
 import boto3
 
 client = boto3.client('s3')
-bucket_name = "nikan-s3-test"
+bucket_name = ""
 
 def upload_to_dynamic_folder(file_path, folder_name):
     '''
