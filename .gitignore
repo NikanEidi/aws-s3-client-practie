@@ -1,23 +1,20 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-# Ignore Python cache
+# Python virtual environments
+venv/
+S3Py/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# OS/system files
+.DS_Store
+AWSCLIV2.pkg
+
+# Cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Ignore virtual environments
-venv/
-S3Py/
-.env
-pyvenv.cfg
-
-# Ignore system files
-.DS_Store
-*.log
-
-# Ignore test/downloaded files
+# Download/test files
 test.txt
 downloaded_test.txt
-
-# Ignore IDE/editor settings
-.vscode/
-.idea/
