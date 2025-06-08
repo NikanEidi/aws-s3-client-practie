@@ -83,7 +83,7 @@ This repo is part of a **Summer Certification Learning Plan** to master AWS by b
 ## 🔗 Related Projects
 
 If you're looking for the **low-level client interface version**, check this out:  
-👉 [AWS S3 Client Interface Repository](https://github.com/NikanEidi/aws-s3-resource-practie)
+👉 [AWS S3 Resource Interface Repository](https://github.com/NikanEidi/aws-s3-resource-practie)
 
 ---
 
