@@ -1,8 +1,8 @@
 import boto3
 
 client = boto3.client('s3')
-src_bucket = "nikan-s3-test"
-dest_bucket = "nikan-s3-destination"
+src_bucket = ""
+dest_bucket = ""
 
 def transfer_file(key):
     '''
