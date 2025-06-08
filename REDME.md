@@ -78,6 +78,14 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 This repo is part of a **Summer Certification Learning Plan** to master AWS by building real-world Python projects.
 
 ---
+---
+
+## 🔗 Related Projects
+
+If you're looking for the **low-level client interface version**, check this out:  
+👉 [AWS S3 Client Interface Repository](https://github.com/NikanEidi/aws-s3-resource-practie)
+
+---
 
 ## 🧑‍💻 Author
 
