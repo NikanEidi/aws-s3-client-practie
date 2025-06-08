@@ -13,7 +13,7 @@ We have 2 types of Buckets -> client which is low level API (we use this type in
 client = boto3.client('s3', region_name='ca-central-1')
 
 #declare variable
-bucket_name = 'nikan-s3-test'
+bucket_name = ''
 
 #* Declare Bucket function
 def bucket():
