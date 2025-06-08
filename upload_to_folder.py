@@ -2,7 +2,7 @@ import boto3
 import os
 
 client = boto3.client('s3')
-bucket_name = "nikan-s3-test"
+bucket_name = ""
 
 def upload_to_folder(file_name, folder_name="uploads", bucket=bucket_name):
     '''
